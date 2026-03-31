@@ -1,0 +1,26 @@
+{
+  "name": "playwrightmcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikfarrell/PlaywrightMCP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikfarrell/PlaywrightMCP/issues"
+  },
+  "homepage": "https://github.com/erikfarrell/PlaywrightMCP#readme",
+  "devDependencies": {
+    "playwright": "^1.58.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
